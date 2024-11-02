@@ -24,7 +24,7 @@ Follow these steps to initialize and configure the project:
   - After completing the setup, use this command to open Cypress:
     - npm run cypress:open
      
-#Project Structure
+**Project Structure**
 
 Your project directory should be structured as follows:
 
